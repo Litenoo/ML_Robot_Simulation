@@ -2,7 +2,7 @@
 A virtual simulation with a moving robot, that will be controlled by ML model. By fitting the virtual model in game, I want to use gained experience later in real life project of robot made with Raspberry Pi
 
 
-Here is the minimal requirements for 1.0 version of the simulation
+# Here are the minimal requirements for 1.0 version of the simulation
 The simulation 1.0:
 
 ### 1. There is a map, that is modificable. 
