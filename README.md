@@ -16,3 +16,9 @@ The simulation 1.0:
 - Has steering system, which is built of two independent wheels and servos
 
 ### 4. Graphical environment is optional, by editing flag
+
+
+# Syncing the reality to the simulation.
+After the irl. prototype of robot will be done, it would be helpful to try to run a scan of the room with a representation of data readed to check if the data matches the reality.
+
+### Main goal is to scan some piece of room and maximieze the representation of the data, to be as accurate as possible, so the networks that I am going to train via simulation will be accurate in the real world as well
